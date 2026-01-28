@@ -170,7 +170,7 @@ Before installing, ensure you have:
 
 #### 1. Clone or Download the Project
 ```bash
-git clone <https://github.com/Shahram-ali-butt/RetailManagementSystem.git>
+git clone https://github.com/Shahram-ali-butt/RetailManagementSystem.git
 cd RetailManagementSystem
 ```
 
