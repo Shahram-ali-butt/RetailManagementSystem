@@ -1,0 +1,8 @@
+7
+1,Pain_Killer,6.5,12
+2,Bandage,5,14
+3,Cough_Serup,130.22,0
+4,Injection,210,1
+5,Disprin,12.01,8
+6,Myocitracin,230.33,2
+7,Panadol,12,12
